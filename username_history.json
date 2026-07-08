@@ -351,6 +351,10 @@
       "ytimfuc"
     ]
   },
+  "2045375485": {
+    "name": "•AZF•",
+    "history": []
+  },
   "2069532673": {
     "name": "⏤<⌬> 𝑨𝒍𝒆𝒙𝒂𝒏𝒅𝒆𝒓 ϟ 𝑿𝒂𝒗𝒊𝒆𝒓",
     "history": []
@@ -1638,5 +1642,11 @@
   "8432945113": {
     "name": "FryDie",
     "history": []
+  },
+  "8510355954": {
+    "name": "Support CoinMarketCap Service",
+    "history": [
+      "CoinMarketCap_Official_Service44"
+    ]
   }
 }
