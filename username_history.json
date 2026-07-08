@@ -803,7 +803,9 @@
   },
   "7423827025": {
     "name": "ALBRIQ",
-    "history": []
+    "history": [
+      "albriq"
+    ]
   },
   "7605597547": {
     "name": "𝐓𝐡𝐞 𝐖𝐢𝐧𝐧𝐞𝐫𝐬",
@@ -1044,8 +1046,10 @@
     "history": []
   },
   "7848723736": {
-    "name": "𝘽𝙖𝙖𝙣",
-    "history": []
+    "name": "Baan Store",
+    "history": [
+      "BAANSTR"
+    ]
   },
   "8419076768": {
     "name": "𝐋𝐮́𝐜𝐚́𝐬 #𝐈𝐌𝐌❂𝐑𝐓𝐀𝐋🥇",
@@ -1816,5 +1820,9 @@
     "history": [
       "OfficiallCoinMarketCapService"
     ]
+  },
+  "8199936221": {
+    "name": "『𝙲𝙴𝙾』nakula",
+    "history": []
   }
 }
