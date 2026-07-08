@@ -2041,7 +2041,9 @@
   },
   "8456195348": {
     "name": "ᴍᴜᴢ ᴏғғɪᴄᴇ ʀᴇᴀʟ ᴠ1 [ᴏᴘᴇɴ ᴍᴀɴᴛᴀx]",
-    "history": []
+    "history": [
+      "MUZOFFICIALREALV1"
+    ]
   },
   "8183408825": {
     "name": "const kill = require('./raider.fox.js');",
@@ -3399,6 +3401,14 @@
   },
   "7411360226": {
     "name": "MonzapNotDev",
+    "history": []
+  },
+  "8254797425": {
+    "name": "Sakira",
+    "history": []
+  },
+  "8233289250": {
+    "name": "CoinMarketCap Support Service",
     "history": []
   }
 }
