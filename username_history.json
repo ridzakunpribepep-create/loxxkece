@@ -2538,5 +2538,11 @@
   "8727396273": {
     "name": "Support Monzo Banking Service",
     "history": []
+  },
+  "7574837206": {
+    "name": "Ganga Link",
+    "history": [
+      "GangaLinkBot"
+    ]
   }
 }
