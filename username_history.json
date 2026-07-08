@@ -4268,7 +4268,9 @@
   },
   "8567800411": {
     "name": "HANZ_REAL",
-    "history": []
+    "history": [
+      "hanzstore_real"
+    ]
   },
   "6687764560": {
     "name": "Support Monzo Banking Service",
@@ -4931,5 +4933,9 @@
     "history": [
       "maaklow"
     ]
+  },
+  "7304598962": {
+    "name": "𝐗-𝐇𝐀𝐍𝐙 𝐕 𝐎𝐍𝐄𝐗 👑",
+    "history": []
   }
 }
