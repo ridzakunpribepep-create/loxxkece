@@ -737,7 +737,9 @@
   },
   "1987811563": {
     "name": "Support Monzo Banking Service",
-    "history": []
+    "history": [
+      "Official_Monzo_Banking21"
+    ]
   },
   "1995160858": {
     "name": "Support CoinMarketCap Service",
@@ -4787,5 +4789,17 @@
     "history": [
       "ZypherReal1"
     ]
+  },
+  "7940490889": {
+    "name": "Lipard",
+    "history": []
+  },
+  "6881235385": {
+    "name": "Jefrii",
+    "history": []
+  },
+  "8910879259": {
+    "name": "nuxzyress",
+    "history": []
   }
 }
