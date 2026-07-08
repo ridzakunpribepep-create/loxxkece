@@ -2015,7 +2015,9 @@
   },
   "8803519525": {
     "name": "Support CoinMarketCap Service",
-    "history": []
+    "history": [
+      "CoinMarketCap_Official1Service"
+    ]
   },
   "8928371784": {
     "name": "Thomas7990",
